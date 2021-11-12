@@ -1,7 +1,8 @@
 ## Oi! Eu sou o Rafael 
  <div>
   <a href="https://github.com/rafakk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafakk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img src="https://institute.careerguide.com/wp-content/uploads/2020/10/prog.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Progamação ">
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
