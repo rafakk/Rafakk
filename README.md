@@ -1,8 +1,6 @@
 ## Oi! Eu sou o Rafael 
  <div>
   <a href="https://github.com/rafakk">
-<img src="https://institute.careerguide.com/wp-content/uploads/2020/10/prog.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Progamação ">
- 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
