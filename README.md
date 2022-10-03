@@ -1,21 +1,16 @@
 ## 
- <div>
-  <a href="https://github.com/rafakk">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-  
-  ##
- 
-<div> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Paytone+One&size=40&duration=2000&pause=1000&color=F71A63&center=true&vCenter=true&width=1000&lines=Welcome+to+my+github!" alt="Typing SVG" /></a><p align="center"><h3>Rafa</h3>developer in process :p.</p><hr/><p align="center"><h4>Languages</h4><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs"></a><h4>Websites</h4><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css"></a>
  
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+
+
+
+
+
+
+
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div> 
